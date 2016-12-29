@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sayi_Toplam</string>
+    <string-array name="Sehir">
+        <item>İzmir</item>
+        <item>İstanbul</item>
+        <item>Ankara</item>
+    </string-array>
+</resources>
