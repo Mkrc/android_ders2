@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final_1_Ideal_Kilo</string>
+    <string-array name="Cinsiyet">
+        <item>Kadın</item>
+        <item>Erkek</item>
+    </string-array>
+</resources>
